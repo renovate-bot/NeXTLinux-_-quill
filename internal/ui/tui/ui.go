@@ -12,7 +12,7 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/wagoodman/go-partybus"
 
-	"github.com/nextlinux/go-logger"
+	"github.com/nextlinux/gologger"
 	"github.com/nextlinux/quill/internal/bus"
 	"github.com/nextlinux/quill/internal/log"
 	"github.com/nextlinux/quill/internal/ui/handle"

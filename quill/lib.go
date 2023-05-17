@@ -3,7 +3,7 @@ package quill
 import (
 	"github.com/wagoodman/go-partybus"
 
-	"github.com/nextlinux/go-logger"
+	"github.com/nextlinux/gologger"
 	"github.com/nextlinux/quill/internal/bus"
 	"github.com/nextlinux/quill/internal/log"
 )

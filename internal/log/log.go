@@ -4,7 +4,7 @@ Package log contains the singleton object and helper functions for facilitating 
 package log
 
 import (
-	"github.com/nextlinux/go-logger"
+	"github.com/nextlinux/gologger"
 	"github.com/nextlinux/gologger/adapter/discard"
 )
 

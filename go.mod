@@ -24,7 +24,6 @@ require (
 	github.com/jedib0t/go-pretty v4.3.0+incompatible
 	github.com/klauspost/compress v1.16.5
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/nextlinux/gologger v1.1.2
 	github.com/nextlinux/go-macholibre v0.0.0-20230428025715-583cee012919
 	github.com/nextlinux/gologger v1.0.1
 	github.com/pkg/profile v1.7.0

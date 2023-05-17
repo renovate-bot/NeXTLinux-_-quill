@@ -259,8 +259,8 @@ github.com/muesli/termenv v0.11.1-0.20220204035834-5ac8409525e0/go.mod h1:Bd5NYQ
 github.com/muesli/termenv v0.13.0/go.mod h1:sP1+uffeLaEYpyOTb8pLCUctGcGLnoFjSn4YJK5e2bc=
 github.com/muesli/termenv v0.15.1 h1:UzuTb/+hhlBugQz28rpzey4ZuKcZ03MeKsoG7IJZIxs=
 github.com/muesli/termenv v0.15.1/go.mod h1:HeAQPTzpfs016yGtA4g00CsdYnVLJvxsS4ANqrZs2sQ=
-github.com/nextlinux/go-logger v1.1.2 h1:XnDMw7EEdrLVIYiN4JfPqsgId4cQBoPFBKVcHbhm6H4=
-github.com/nextlinux/go-logger v1.1.2/go.mod h1:fkf4RQntmck5O7Fy3u27u8mmjBNT3RUCymrFhQjUIiE=
+github.com/nextlinux/gologger v1.1.2 h1:XnDMw7EEdrLVIYiN4JfPqsgId4cQBoPFBKVcHbhm6H4=
+github.com/nextlinux/gologger v1.1.2/go.mod h1:fkf4RQntmck5O7Fy3u27u8mmjBNT3RUCymrFhQjUIiE=
 github.com/nextlinux/go-macholibre v0.0.0-20230428025715-583cee012919 h1:hMrWS+/Cs4+59B3H999Mc3AMQqAV09IoRzATLLQAsKk=
 github.com/nextlinux/go-macholibre v0.0.0-20230428025715-583cee012919/go.mod h1:gBL8mpCrHOIQkXH6rTjKBEPPjeNIMfNRSWwWBYhEjWc=
 github.com/nextlinux/gologger v1.0.1 h1:kX8J8P/Uy8J4RY3rlgZlBYBdOEV1en2IV9bsW5aD5HU=
